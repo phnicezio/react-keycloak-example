@@ -1,0 +1,27 @@
+.Menu {
+  text-align: center;  
+}
+
+.Menu-container {
+  background-color: #282c34;
+  min-height: 15vh;  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.Menu .Menu-container button {
+  
+  min-height: 8vh;
+  min-width: 15vh;
+  padding: 15px 32px;
+  margin-top: 10px;
+  margin-right: 16px;
+  background-color: #61dafb;
+  color: white;
+  text-decoration: none;
+  font-size: calc(8px + 2vmin);
+  border: none;
+  cursor: pointer;
+}
