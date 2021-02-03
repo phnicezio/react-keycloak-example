@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project implements an authentication flow using React and [keycloak-js](https://www.keycloak.org/docs/latest/securing_apps/#_javascript_adapter).
+
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Keycloak
